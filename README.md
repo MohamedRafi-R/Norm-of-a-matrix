@@ -44,10 +44,6 @@ ans=np.linalg.norm(mat,np.inf)
 print("{:.2f}".format(ans))
 ```
 
-
-
-
-```
 ## Output:
 ### 1-Norm of a Matrix
 
